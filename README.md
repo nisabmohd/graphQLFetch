@@ -7,7 +7,7 @@
     const query=
     `
     query Query {
-        continent(code: "${e.target.value}") {
+        continent(code: "AF") {
           countries{
             name
             code
