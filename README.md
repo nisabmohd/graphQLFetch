@@ -1,4 +1,4 @@
-# This repo focuses on getting data from GraphQL API with Javascript Browswer FetchAPI
+# This repo focuses on getting data from GraphQL API with Javascript Browser FetchAPI
 
 
 #### Example :
